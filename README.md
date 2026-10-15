@@ -29,6 +29,7 @@ I turn **energy and manufacturing data** into clear, cost-saving recommendations
 | [🏭 Factory Energy Analysis](https://github.com/ayushramtekkar/Factory_Energy_Analysis) | Compressors drive **44%** of a 33,636 EUR yearly energy bill | Python, pandas, matplotlib |
 | [🔧 Factory Maintenance Analysis](https://github.com/ayushramtekkar/Factory_maintenance_SQL) | 3 machines above 90 °C cause **76%** of repair costs | SQL, pandas |
 | [📊 Factory Statistics Analysis](https://github.com/ayushramtekkar/Factory_Statistics_Analysis) | Temperature ↔ repair cost **r = 0.72**, but machine size is a hidden factor | Python, statistics |
+| [📗 Factory Excel Dashboard](https://github.com/ayushramtekkar/Factory_Excel_Dashboard) | KPI dashboard: overheating machines = **46%** of energy cost | Excel, pivot tables, XLOOKUP |
 
 ---
 
